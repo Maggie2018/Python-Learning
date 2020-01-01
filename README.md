@@ -7,4 +7,5 @@ My python learning journal.
 <br>Study at: https://github.com/jackfrued/Python-100-Days
 - 2020.01.01
 <br>Start reading: Python for Data Analysis(Wes McKinney, 2013) 
+<br>Small projects ready to practice: https://github.com/Yixiaohan/show-me-the-code
 <br>Practice in Jupyter
