@@ -9,3 +9,4 @@ My python learning journal.
 <br>Start reading: Python for Data Analysis(Wes McKinney, 2013) 
 <br>Small projects ready to practice: https://github.com/Yixiaohan/show-me-the-code
 <br>Practice in Jupyter
+<br>Markdown tutorial:[Markdown](http://xianbai.me/learn-md/index.html)
