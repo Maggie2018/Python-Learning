@@ -13,7 +13,10 @@ Start reading:
 Small projects ready to practice:[Python 练习册，每天一个小程序](https://github.com/Yixiaohan/show-me-the-code)  
 Practice in Jupyter  
 Markdown tutorial:[Markdown](http://xianbai.me/learn-md/index.html)  
-[//]: <> (This is a test for write codes in markdown)
+<!--
+This is a test for write codes in markdown
+-->
+
 ```
 print("Hello world!")
 def function(argument):
