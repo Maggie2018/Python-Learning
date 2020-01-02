@@ -14,7 +14,7 @@ Small projects ready to practice:[Python 练习册，每天一个小程序](http
 Practice in Jupyter  
 Markdown tutorial:[Markdown](http://xianbai.me/learn-md/index.html)  
 <!--
-This is a test for write codes in markdown
+Here is a test for write codes in markdown as below:
 -->
 
 ```
