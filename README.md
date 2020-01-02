@@ -14,7 +14,7 @@ Small projects ready to practice:[Python 练习册，每天一个小程序](http
 Practice in Jupyter  
 Markdown tutorial:[Markdown](http://xianbai.me/learn-md/index.html)  
 `
-  print("Hello world!")
-  def function(argument):
+  print("Hello world!")  
+  def function(argument):  
     return "Done!"
 `
