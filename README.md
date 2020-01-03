@@ -24,4 +24,4 @@ def function(argument):
 ```
 - 2020.01.02  
 Get to know how to share notes on Jupyter nbviewer like this:  
-[Introductory examples](Introductory examples)
+[Introductory examples](https://nbviewer.jupyter.org/github/pydata/pydata-book/blob/1st-edition/ch02.ipynb)
