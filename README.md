@@ -22,3 +22,6 @@ print("Hello world!")
 def function(argument):
    return "Done!"
 ```
+- 2020.01.02  
+Get to know how to share notes on Jupyter nbviewer like this:  
+[Introductory examples](Introductory examples)
