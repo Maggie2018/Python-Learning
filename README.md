@@ -28,4 +28,4 @@ Get to know how to share notes on Jupyter nbviewer like this:
 - 2020.01.03  
 [廖雪峰教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
 - 2020.02.13  
-用Python读写文件
+用Python读写文件:[OS path module official document](http://docs.python.org/3/library/os.path.html)
