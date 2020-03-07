@@ -30,4 +30,4 @@ Get to know how to share notes on Jupyter nbviewer like this:
 - 2020.02.13  
 用Python读写文件:[OS path module official document](http://docs.python.org/3/library/os.path.html)
 - 2020.03.07  
-Python Module of the Week(https://pymotw.com/3/)
+[Python Module of the Week](https://pymotw.com/3/)
