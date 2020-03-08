@@ -31,3 +31,6 @@ Get to know how to share notes on Jupyter nbviewer like this:
 用Python读写文件:[OS path module official document](http://docs.python.org/3/library/os.path.html)
 - 2020.03.07  
 [Python Module of the Week](https://pymotw.com/3/)
+- 2020.03.08
+JSON(JavaScript Object Notation) 
+[Project Gutenberg](http://www.gutenberg.org/)
