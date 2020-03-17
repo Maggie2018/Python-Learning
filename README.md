@@ -35,4 +35,6 @@ Get to know how to share notes on Jupyter nbviewer like this:
 JSON(JavaScript Object Notation)  
 [Project Gutenberg](http://www.gutenberg.org/)  
 - 2020.03.09  
-matplotlib.pyplot.plot()
+matplotlib.pyplot.plot()  
+- 2020.03.17  
+data visualization: matplotlib, json
