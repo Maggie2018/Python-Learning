@@ -38,3 +38,5 @@ JSON(JavaScript Object Notation)
 matplotlib.pyplot.plot()  
 - 2020.03.17  
 data visualization: matplotlib, json
+- 2020.11.09
+廖雪峰教程
